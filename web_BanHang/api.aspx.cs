@@ -15,7 +15,7 @@ namespace web_BanHang
 {
     public partial class api : System.Web.UI.Page
     {
-        private const string cnStr = "Server=LAPTOP-DUYCOP\\SQLEXPRESS;Database=QL_BanHang;User Id=sa;Password=123;";
+        private const string cnStr = "Server = DUYVPRO; Database = QL_BanHang; User Id = sa; Password = makaeenm1;";
         private class Data_reply
 
         {
